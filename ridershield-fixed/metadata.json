@@ -1,0 +1,9 @@
+{
+  "name": "RiderShield",
+  "description": "An automated crash detection and emergency response system for motorcycle riders featuring multi-language support and AI-powered voice rescue.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
